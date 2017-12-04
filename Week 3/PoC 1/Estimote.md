@@ -4,7 +4,7 @@
 In dit onderzoek wil ik gaan onderzoeken of en hoe beacons een rol zouden kunnen spelen in een oplossing om de crowd control te verbeteren.
 
 ## Hypothese
-Ik weet dat Apple vrij streng is met het openzetten/implementeren van API's.
+Ik weet dat Apple vrij streng is met het openzetten/implementeren van hardware API's. Tevens werken de beacons volgensmij met een soort van Bluetooth achtige technologie. In de lessen van DIA hebben we al eens met Swift en Bluetooth gewerkt, dit was toen ook nog best een gedoe om werkend te krijgen, gezien je met o.a. packet loss zat en met het adverteren als Bluetooth device wat lastig kon zijn. Daarom denk ik dat het nog wel eens lastig kan worden om deze beacons in Swift op iOS werkend te krijgen.
 
 ## Testopzet
 Ik heb via Johan Korten 2 setjes Estimote Location Beacons geregeld. Ik ga kijken of deze beacons op Android en iOS werken. Vervolgens ga ik kijken of er al een bestaande app is die ik kan gebruiken voor het testen van afstanden van de beacons en wat voor informatie ik verder nog uit de beacons kan halen.
@@ -16,6 +16,8 @@ Dit idee zouden we in de Efteling kunnen toepassen door beacons op bepaalde loka
 
 ![alt text](https://github.com/BillyJean1/Kevin-Broeren/raw/master/Week%203/PoC%201/images/app.png "De Estimote app")
 
-Ik heb ook geprobeerd om zelf een app te maken. Echter krijg ik een foutmelding over permissies over Bluetooth/lokatie. De app zou hier echter zelf al om moeten vragen omdat ik deze in de .plist heb staan. Ik heb op de GitHub van Estimote aangegeven dat ik met dit probleem zit. Mits ik binnen een week een reactie krijg ga ik hier wellicht volgende week nog mee verder.
+Ik heb ook geprobeerd om zelf een app te maken. Echter krijg ik een foutmelding over permissies over Bluetooth/locatie. De app zou hier echter zelf al om moeten vragen omdat ik deze in de .plist heb staan. Ik heb op de GitHub van Estimote aangegeven dat ik met dit probleem zit. Mits ik binnen een week een reactie krijg ga ik hier wellicht volgende week nog mee verder.
 
 ![alt text](https://github.com/BillyJean1/Kevin-Broeren/raw/master/Week%203/PoC%201/images/app_own.png "De Estimote app")
+
+Ik kan mijn hypothese echter verwerpen, want naast dat er een fout in het framework zat, was het wel erg makkelijk om de beacons werkend te krijgen. Met de standaard app van de fabrikant werkte de beacons out-of-the-box.

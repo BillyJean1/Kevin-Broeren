@@ -25,3 +25,19 @@ De probe study heb ik zelf kunnen uitzetten bij een kennis van mij. De probe stu
 
 De wall analysis diende als een soort vervolg op de eerder uitgevoerde interviews en probe studies. Hierbij hebben we de interviews en probestudies doorgenomen en hebben we allen sticky notes volgeschreven met dingen die ons opvielen uit deze onderzoeken. Na alle onderzoeken doorgenomen te hebben kozen we telkens 2 willekeurige sticky notes uit, deze plakten we op een tafel en gingen hier vervolgens andere sticky notes bij zoeken, die volgens ons een link legde tussen de 2 eerder gekozen sticky notes. Ik merkte dat we hierdoor tot nieuwe inzichten kwamen omdat je combinaties krijgt waar je anders niet aan gedacht had. Dit kan ons dus helpen met het opzetten van een concept.
 ![alt text](https://github.com/BillyJean1/Kevin-Broeren/raw/master/Week%202/images/wallanalysis.jpeg "Wall study")
+
+## Week 3
+### Wat wilde je vorige week ook alweer verbeteren en in hoeverre is dit gelukt?
+Vorige weken hebben we een aantal keer gehad dat we niet echt voorruit konden. Dit kwam omdat we onze resultaten van de probe study nog niet hadden toen we wouden beginnen met het uitwerken van de concepten. Deze week is dat beter gegaan doordat we die resultaten uiteraard al hadden, maar toch merkte ik dat we soms nog tegen een soortgelijke situatie aanliepen.
+
+### Wat ging er afgelopen week goed?
+Deze week hebben we ons eerste concept verder uitgewerkt en concept 2 (augmented reality) bedacht. We hebben hier de tijd voor genomen, omdat dit een belangrijk deel van het project is. We hebben hier allemaal goed over nagedacht, de samenwerking hierbij ging ook erg goed. Toch hebben we bijvoorbeeld voor het maken van de presentaties weer een verdeling gemaakt, 2 mensen zouden aan de presentaties werken, 2 mensen gingen het AR concept visueel maken en nog 2 andere groepsleden gingen zich bezig houden met het maken van een storyboard voor dat concept. Dit is ook weer een goede keus geweest, omdat we aan het eind van de middag alles af hadden.
+
+### Wat ging er niet goed, waar heb je je aan geërgerd, wat moet er niet meer gebeuren?
+We hebben vorige week de keuze gemaakt dit project volgens de Scrum methode uit te voeren. Echter hebben we deze week nog niet veel van de Scrum workflow gebruikt, wat grotendeels gekomen is doordat we veel samen gedaan hebben en daily standups dus weinig zin hadden. Echter hadden we wel een sprintplanning en retrospective kunnen maken.
+
+### Wat ga je komende week proberen te verbeteren?
+In de komende week wil ik proberen om meer de Scrum workflow aan te houden. Door een goede scrum planning te maken wil ik voorkomen dat we opnieuw tegen situaties aanlopen waarin we niet goed weten wat we moeten doen.
+
+## Week 4
+### 
