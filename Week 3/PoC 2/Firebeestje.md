@@ -15,6 +15,6 @@ Om tot het gewenste resultaat te komen heb ik gebruik gemaakt van [deze tutorial
 
 Met deze hulpmiddelen is het mij inderdaad gelukt om binnen 4 uur een werkende app op te zetten waar realtime wijzigingen worden doorgevoerd.
 
-![alt text](https://github.com/BillyJean1/Kevin-Broeren/raw/master/Week%203/PoC%202/images/app.png "Swift app")
+![alt text](https://github.com/BillyJean1/Kevin-Broeren/raw/master/Week%203/PoC%202/images/app.PNG "Swift app")
 
 Mijn hypothese was dus correct. Het is mij binnen 4 uur gelukt om een simpele Firebase connectie op te zetten welke realtime update. De documentatie hiervoor was erg goed
