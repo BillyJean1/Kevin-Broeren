@@ -14,10 +14,10 @@ Estimote, de maker van de beacons, heeft zelf een [gratis app](https://itunes.ap
 
 Dit idee zouden we in de Efteling kunnen toepassen door beacons op bepaalde lokaties te plaatsen zodat we kunnen zien wie er "in range" van de beacon is en op basis daarvan bepalen of hij/zij wel of niet een verzoek om naar een bepaalde lokatie te gaan krijgt. Dit zou een betere oplossing dan 'GPS' kunnen zijn omdat GPS evt. gespoofd kan worden en dat met beacons een stuk lastiger is. Hierdoor voorkom je dat mensen thuis al punten gaan verzamelen als ze een volgende dag pas naar de Efteling gaan.
 
-![alt text](https://github.com/BillyJean1/Kevin-Broeren/raw/master/Week%203/PoC%201/images/app.png "De Estimote app")
+![alt text](https://github.com/BillyJean1/Kevin-Broeren/raw/master/Week%203/PoC%201/images/app.PNG "De Estimote app")
 
 Ik heb ook geprobeerd om zelf een app te maken. Echter krijg ik een foutmelding over permissies over Bluetooth/locatie. De app zou hier echter zelf al om moeten vragen omdat ik deze in de .plist heb staan. Ik heb op de GitHub van Estimote aangegeven dat ik met dit probleem zit. Mits ik binnen een week een reactie krijg ga ik hier wellicht volgende week nog mee verder.
 
-![alt text](https://github.com/BillyJean1/Kevin-Broeren/raw/master/Week%203/PoC%201/images/app_own.png "De Estimote app")
+![alt text](https://github.com/BillyJean1/Kevin-Broeren/raw/master/Week%203/PoC%201/images/own_app.PNG "De Estimote app")
 
 Ik kan mijn hypothese echter verwerpen, want naast dat er een fout in het framework zat, was het wel erg makkelijk om de beacons werkend te krijgen. Met de standaard app van de fabrikant werkte de beacons out-of-the-box.
