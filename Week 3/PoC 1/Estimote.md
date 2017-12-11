@@ -16,7 +16,22 @@ Dit idee zouden we in de Efteling kunnen toepassen door beacons op bepaalde loka
 
 ![alt text](https://github.com/BillyJean1/Kevin-Broeren/raw/master/Week%203/PoC%201/images/app.PNG "De Estimote app")
 
-Ik heb ook geprobeerd om zelf een app te maken. Echter krijg ik een foutmelding over permissies over Bluetooth/locatie. De app zou hier echter zelf al om moeten vragen omdat ik deze in de .plist heb staan. Ik heb op de GitHub van Estimote aangegeven dat ik met dit probleem zit. Mits ik binnen een week een reactie krijg ga ik hier wellicht volgende week nog mee verder.
+Ik heb ook geprobeerd om zelf een app te maken. Echter krijg ik een foutmelding over permissies over Bluetooth/locatie. De app zou hier echter zelf al om moeten vragen omdat ik deze in de .plist heb staan. Ik heb [op de GitHub van Estimote](https://github.com/Estimote/iOS-SDK/issues/274) aangegeven dat ik met dit probleem zit. Mits ik binnen een week een reactie krijg ga ik hier wellicht volgende week nog mee verder.
+
+Ondertussen hebben de makers van Estimote [een reactie](https://github.com/Estimote/iOS-SDK/issues/274#issuecomment-348951429) geplaatst:
+
+    Hey IncognitoCore 👋
+    Thank you for bringing that up!
+    It should work out-of-the-box as you say, expect an updated version of the templates soon 😉 (@beardaway is cracking it as we speak 💪).
+
+    It's broken because of the new policy we use for Location Services permissions in the SDK. We used to ask for these permissions implicitly when starting monitoring, but a developer wouldn't have any control over permissions this way (e.g. what if a user disagrees?). That's the reason we switched to manual permission requesting (like you do when using Apple's Core Location).
+
+    That's how it all works now:
+    • ESTMonitoringV2Manager provides an interface for requesting permissions with either -requestAlwaysAuthorization or -requestWhenInUseAuthorization.
+    • ESTMonitoringV2Manager also provides a readonly property to check for current authorizationStatus.
+    • ESTMonitoringV2ManagerDelegate is additionally informed whenever the authorization status changes with -monitoringManager:didChangeAuthorizationStatus:authorizationStatus.
+
+    Does that answer your question? What do you think about all of that?
 
 ![alt text](https://github.com/BillyJean1/Kevin-Broeren/raw/master/Week%203/PoC%201/images/own_app.PNG "De Estimote app")
 

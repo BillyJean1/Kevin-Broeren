@@ -40,4 +40,16 @@ We hebben vorige week de keuze gemaakt dit project volgens de Scrum methode uit 
 In de komende week wil ik proberen om meer de Scrum workflow aan te houden. Door een goede scrum planning te maken wil ik voorkomen dat we opnieuw tegen situaties aanlopen waarin we niet goed weten wat we moeten doen.
 
 ## Week 4
-### 
+### Wat wilde je vorige week ook alweer verbeteren en in hoeverre is dit gelukt?
+Deze week heeft vooral in het teken gestaan van het voorbereiden van de tussenpresentatie, tevens hebben we het 1e concept verder uitgewerkt omdat we dit concept in de vorige week gekozen hebben. Vorige week heb ik gezegd dat ik wou gaan proberen meer de SCRUM workflow aan te houden, dat is deze week echter nog niet gelukt omdat deze week vooral gezamelijke taken op de planning stonden. Hierdoor was het niet nuttig om dagelijks een standup te houden, omdat we dus al van elkaar wisten wat we de vorige dag gedaan hadden. Het was wel nuttig om elke dag even te bespreken wat we gingen doen, dat hebben we dus ook gedaan, maar dat is niet SCRUM.
+
+### Wat ging er afgelopen week goed?
+We hebben deze week elke dag concreet een dagplanning op gesteld: hierdoor zaten we qua planning op één lijn en konden we ook zien dat, en ingrijpen als, een taak lang duurde.
+
+Deze week hebben we voor het eerst een retrospective gehouden. Hier is aan het licht gekomen dat er nog wat puntjes zijn waar niet iedereen tevreden over is en wat beter kan. Hieruit zijn vervolgens concrete afspraken gekomen wat we volgende we(e)k(en) gaan verbeteren. Dit moeten en willen we vanaf nu elke week/sprint gaan doen.
+
+### Wat ging er niet goed, waar heb je je aan geërgerd, wat moet er niet meer gebeuren?
+Als ik op deze week terug kijk vind ik dat we weinig 'concreets' opgeleverd hebben. Dat vind ik vervelend, want dan heb ik het gevoel dat we niks nuttigs gedaan hebben, maar dat is wel het geval. Volgende week gaan we dus een sprintplanning maken, waardoor voor mij de taken die we gaan doen concreter in beeld gebracht zullen worden en ik ze dus ook kan afvinken als ze klaar zijn.
+
+### Wat ga je komende week proberen te verbeteren?
+We hebben deze week een retrospective gehouden. Hier uit is gekomen dat we voor volgende week een sprintplanning willen gaan maken en ons meer aan het SCRUM proces willen houden. Volgende week is dit naar verwachting wel nuttig omdat we dan aan de bouwfase beginnen en er dus meer taken zijn die verdeeld kunnen worden. Ik wil dus hetzelfde proberen als wat ik vorige week wilde verbeteren, maar verwacht hier nu wel succes mee te hebben.
