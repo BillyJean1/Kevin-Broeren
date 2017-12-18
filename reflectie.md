@@ -56,13 +56,15 @@ We hebben deze week een retrospective gehouden. Hier uit is gekomen dat we voor 
 
 ## Week 5
 ### Wat wilde je vorige week ook alweer verbeteren en in hoeverre is dit gelukt?
-Deze week wou ik meer structuur aanbrengen in onze werkwijze. Ik heb toen besloten dit te willen gaan doen door echte scrum-sprintplanningen te maken en ook daily standups te gaan houden. Het is me gelukt dit te doen. We hebben op dinsdag (maandag was er sneeuwvrij op de HAN) een sprintplanning gemaakt voor 2 weken.
+Deze week wou ik meer structuur aanbrengen in onze werkwijze. Ik heb toen besloten dit te willen gaan doen door echte scrum-sprintplanningen te maken en ook daily standups te gaan houden. Het is me gelukt dit te doen. We hebben op dinsdag (maandag was er sneeuwvrij op de HAN) een sprintplanning gemaakt voor 2 weken. Deze sprintplanning hebben we ook dagelijks bijgewerkt, hier was soms nog wat moeite voor nodig (iemand moest dit even aankaarten) omdat niet iedereen (vooral de CMD'ers: voor wie dit nieuw was) hier aan dachten.
 
 ### Wat ging er afgelopen week goed?
+Deze week hebben we kunnen beginnen aan de bouwfase. Ondanks dat ik bang was dat het hierbij lastig zou gaan worden om iedereen bezig te houden en het werk goed te verdelen vind ik dat we dit goed gedaan hebben. Ik was hier bang voor omdat dit echt ICT weken gingen worden, maar voor nu hebben de CMD'ers ons goed kunnen helpen bij het ontwikkelen van het technisch ontwerp (we hebben ze de sequence diagrams uitgelegd en kwamen ook daarbij bij inzichten die we telkens gingen overleggen met z'n alle (zitten we wel allemaal op 1 lijn? ect.)). Bij het programmeer werk konden de CMD'ers zich goed bezig houden met de ontwerpen terwijl wij aan het programmeren waren. We hebben aan het eind van de week samen met Fritz en Lambert nog een gesprek gehouden en hier ook weer veel nieuwe en goede ideeen/concepten kunnen laten zien en de voortgang kunnen bespreken. Ik ben tevreden over deze week!
 
+Dat laatste komt tevens ook omdat ik deze week (op aanraden van Fritz) een takenlijst heb bijgehouden (wat heb ik elke dag gedaan). Dat blijkt mij meer voldoening te geven in mijn werk omdat ik een beter inzicht krijg van wat ik deze week heb opgeleverd.
 
 ### Wat ging er niet goed, waar heb je je aan geërgerd, wat moet er niet meer gebeuren?
-Op donderdag was Ramon helaas ziek. De dag ervoor had hij samen met Zoë de Firebase connectie met Facebook login opgezet, wat hij had gedaan op zijn privé Google Account. De dag daarna toen hij dus ziek was konden wij niet vooruit met de code, omdat we zijn gegevens, of toegang tot het project, nodig hadden om de app te draaien. Toen hij later in de ochtend weer wakker werd heeft hij ons direct geholpen.
+Op donderdag was Ramon helaas ziek. De dag ervoor had hij samen met Zoë de Firebase connectie met Facebook login opgezet, wat hij had gedaan op zijn privé Google Account. De dag daarna toen hij dus ziek was konden wij niet vooruit met de code, omdat we zijn gegevens, of toegang tot het project, nodig hadden om de app te draaien. Toen hij later in de ochtend weer wakker werd heeft hij ons direct geholpen en toegang gegeven tot beide projecten.
 
 ### Wat ga je komende week proberen te verbeteren?
-Volgende week gaan we er voor zorgen dat dit soort situaties niet meer, of minder snel, kunnen ontstaan.
+Volgende week gaan we er voor zorgen dat dit soort (zie bovenstaand) situaties niet meer, of minder snel, kunnen ontstaan. We moeten er meer op gaan letten dat er elke dag aan het eind alles wordt bijgewerkt in Trello (ons plan bord) en dat alle code (werkend) gepusht wordt.
