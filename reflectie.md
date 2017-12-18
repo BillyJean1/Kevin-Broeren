@@ -53,3 +53,16 @@ Als ik op deze week terug kijk vind ik dat we weinig 'concreets' opgeleverd hebb
 
 ### Wat ga je komende week proberen te verbeteren?
 We hebben deze week een retrospective gehouden. Hier uit is gekomen dat we voor volgende week een sprintplanning willen gaan maken en ons meer aan het SCRUM proces willen houden. Volgende week is dit naar verwachting wel nuttig omdat we dan aan de bouwfase beginnen en er dus meer taken zijn die verdeeld kunnen worden. Ik wil dus hetzelfde proberen als wat ik vorige week wilde verbeteren, maar verwacht hier nu wel succes mee te hebben.
+
+## Week 5
+### Wat wilde je vorige week ook alweer verbeteren en in hoeverre is dit gelukt?
+Deze week wou ik meer structuur aanbrengen in onze werkwijze. Ik heb toen besloten dit te willen gaan doen door echte scrum-sprintplanningen te maken en ook daily standups te gaan houden. Het is me gelukt dit te doen. We hebben op dinsdag (maandag was er sneeuwvrij op de HAN) een sprintplanning gemaakt voor 2 weken.
+
+### Wat ging er afgelopen week goed?
+
+
+### Wat ging er niet goed, waar heb je je aan geërgerd, wat moet er niet meer gebeuren?
+Op donderdag was Ramon helaas ziek. De dag ervoor had hij samen met Zoë de Firebase connectie met Facebook login opgezet, wat hij had gedaan op zijn privé Google Account. De dag daarna toen hij dus ziek was konden wij niet vooruit met de code, omdat we zijn gegevens, of toegang tot het project, nodig hadden om de app te draaien. Toen hij later in de ochtend weer wakker werd heeft hij ons direct geholpen.
+
+### Wat ga je komende week proberen te verbeteren?
+Volgende week gaan we er voor zorgen dat dit soort situaties niet meer, of minder snel, kunnen ontstaan.
