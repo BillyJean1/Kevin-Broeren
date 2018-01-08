@@ -79,7 +79,8 @@ We hebben deze week veel op kunnen leveren. Het inloggen (deels vorige week), in
 Daarnaast ging het samenwerken ook goed. Ik kwam zelf een keer niet uit hoe ik een bepaalde feature het best kon implementeren, Colin heeft mij hier toen geholpen. Dit betreftefte het ophalen van een locatie. Ik probeerde dit op te lossen op een manier hoe dit in Ionic/Angular zou moeten: een service maken die de locatie opvraagt en middels een return waarde of geresolvede promise de opgevraagde waarden kon teruggeven. Echter was dit lastig omdat er een methode 'requestLocation()' op de CLLocationManager wordt aangeroepen, die niks teruggeeft. Dat "teruggeven" wordt ontvangen in een delegate. Het is dus lastig om een functie daar om heen te bouwen die het opvragen start en ook teruggeeft.
 
 ### Wat ging er niet goed, waar heb je je aan geërgerd, wat moet er niet meer gebeuren?
-
+We hebben deze week meer individueel gewerkt dan voorheen. We hebben ons namelijk meer gericht op het implementeren van functies/features wat voor een groot deel individueel- of duo werk was. Ik heb gemerkt dat de communicatie hierbij niet altijd goed liep. We hebben ook niet elke dag standups gehouden en niet iedereen wist waar iemand anders mee bezig was en waarom (waarom duurt dat zo lang bijv.). Dit kwam doordat dit niet verteld werd, maar ook omdat dit niet geregistreerd werd in Trello.
+Het heeft nog niet voor problemen gezorgt (er is niks dubbel gedaan, ik heb hier persoonlijk (nog) geen hinder aan ondervonden, ect.), maar dit neemt wel een groot risico met zich mee, de kans op dubbel werk of onenigheden is dan namelijk een stuk groter.
 
 ### Wat ga je komende week proberen te verbeteren?
-Komende weken
+Komende week ga ik er voor zorgen dat we dagelijks een standup houden en ga ik ook overdag enkele keren vragen waar iedereen mee bezig is, om te controleren of Trello goed wordt bijgehouden en ik zo nodig in kan grijpen. Zo wil ik voorkomen dat wat ik in het vorige hoofdstuk heb beschreven gaat gebeuren.

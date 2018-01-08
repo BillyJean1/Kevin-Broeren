@@ -19,5 +19,5 @@ Ik heb toen zoals beschreven de app gestart en deze geminimalizeerd (zoals ook s
 Ik heb toen de app 10x opnieuw opgestart waarbij ik 9x gekozen heb om in te loggen via Facebook en 1x via Email. In de heatmap op het dashboard was toen ook duidelijk te zien dat de facebook knop veel vaker gebruikt was.
 ![alt text](https://github.com/BillyJean1/Kevin-Broeren/raw/master/Week%207/PoC%202/images/dashboard_detail.png "Dashboard overzicht")
 
-Tevens gaf dit dashboard ook nog veel andere informatie, waaronder welke pagina's/schermen de gebruiker heeft gezien, hoelang hij daar op gebleven is en bij welk scherm hij is gestopt.
+Tevens gaf dit dashboard ook nog veel andere informatie, waaronder welke pagina's/schermen de gebruiker heeft gezien, hoelang hij daar op gebleven is en bij welk scherm hij is gestopt. Van de gehele app experience van de gebruiker wordt ook een video gegenereerd, op die manier is nog duidelijker te zien wat de gebruiker heeft aangeklikt.
 ![alt text](https://github.com/BillyJean1/Kevin-Broeren/raw/master/Week%207/PoC%202/images/dashboard.png "Dashboard overzicht")
