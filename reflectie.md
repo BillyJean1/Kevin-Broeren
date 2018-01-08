@@ -68,3 +68,18 @@ Op donderdag was Ramon helaas ziek. De dag ervoor had hij samen met Zoë de Fire
 
 ### Wat ga je komende week proberen te verbeteren?
 Volgende week gaan we er voor zorgen dat dit soort (zie bovenstaand) situaties niet meer, of minder snel, kunnen ontstaan. We moeten er meer op gaan letten dat er elke dag aan het eind alles wordt bijgewerkt in Trello (ons plan bord) en dat alle code (werkend) gepusht wordt.
+
+## Week 6
+### Wat wilde je vorige week ook alweer verbeteren en in hoeverre is dit gelukt?
+Deze week wou ik gaan verbeteren dat situaties dat iemand niet aanwezig is en we niet vooruit kunnen niet meer voor kwamen, of de effecten beperkt werden. Deels is dat gelukt, we zorgen dat iedereen alles gepusht heeft aan het eind van de dag, echter wordt de progress daar van niet goed getracked: we houden dit niet goed bij in Trello. Tevens hebben we deze week ook meer losse taken gecreeerd. De afhankelijk van elkaar werd hierbij verminderd, waardoor we gewoon vooruit konden als iemand niet aanwezig was. Deze situatie is ook voorgekomen: Martijns laptop liep vast en Zoë is een ochtend afwezig geweest i.v.m. tandarts, hier hebben we geen hinder aan ondervonden door deze minder hechte afhankelijkheid.
+
+### Wat ging er afgelopen week goed?
+We hebben deze week veel op kunnen leveren. Het inloggen (deels vorige week), inchecken en het checken/versturen/ontvangen van aanbevelingen zit al in de app. Tevens zijn de schermontwerpen grotendeels af (de schermen in het eind van de app nog niet 100% maar die hebben we nog niet nodig) en het prototype is ook af (dat wil zeggen een doorklikbare versie van de schermen/app). Ik ben tevreden over de hoeveelheid progress die we dus hebben kunnen maken in deze week.
+
+Daarnaast ging het samenwerken ook goed. Ik kwam zelf een keer niet uit hoe ik een bepaalde feature het best kon implementeren, Colin heeft mij hier toen geholpen. Dit betreftefte het ophalen van een locatie. Ik probeerde dit op te lossen op een manier hoe dit in Ionic/Angular zou moeten: een service maken die de locatie opvraagt en middels een return waarde of geresolvede promise de opgevraagde waarden kon teruggeven. Echter was dit lastig omdat er een methode 'requestLocation()' op de CLLocationManager wordt aangeroepen, die niks teruggeeft. Dat "teruggeven" wordt ontvangen in een delegate. Het is dus lastig om een functie daar om heen te bouwen die het opvragen start en ook teruggeeft.
+
+### Wat ging er niet goed, waar heb je je aan geërgerd, wat moet er niet meer gebeuren?
+
+
+### Wat ga je komende week proberen te verbeteren?
+Komende weken

@@ -42,3 +42,28 @@
 | 2. | Verwerken PoC Animatie |
 | 3. | Uitwerken PoC QR/Barcode scanner |
 | 4. | Overleg over ontwerpkeuzes betreft design |
+
+## Dinsdag
+| Nr. | Taak |
+| --- | --- |
+| 1. |  |
+
+## Woensdag
+| Nr. | Taak |
+| --- | --- |
+| 1. | Uitwerken UC: Inchecken |
+
+## Donderdag
+| Nr. | Taak |
+| --- | --- |
+| 1. | Uitwerken UC: Inchecken |
+| 2. | Uitwerken reflectie |
+| 3. | Ramon helpen met locatievoorzieningen bij aanbevelingen |
+| 4. | Gesprek met Fritz en Lambert |
+
+
+# Week 7
+## Maandag
+| Nr. | Taak |
+| --- | --- |
+| 1. | Uitwerken PoC AppStore |
