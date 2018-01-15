@@ -11,7 +11,7 @@ Er een betaald account voor nodig om een app te releasen. Ik wil hiervoor het ac
 Gezien alles wat wij voor de opdrachtgever ontwikkelen tijdens dit project onder NDA valt, kan ik niet de daadwerkelijke app gebruiken. Om het NDA niet te schaden zal ik daarom zelf een andere kleine app proberen in de App Store te zetten.
 
 ## Resultaat
-Ik heb allereerst gekeken welke stappen ik moet doorlopen om mijn app te uploaden, en waar ik deze moet uitvoeren. Ik kwam [deze tutorial tegen]https://www.raywenderlich.com/133121/testflight-tutorial-ios-beta-testing) waarin dit staat beschreven.
+Ik heb allereerst gekeken welke stappen ik moet doorlopen om mijn app te uploaden, en waar ik deze moet uitvoeren. Ik kwam [deze tutorial tegen](https://www.raywenderlich.com/133121/testflight-tutorial-ios-beta-testing) waarin dit staat beschreven.
 
 Bij het volgen van deze tutorial wou stap 2, het archiveren van de app, niet lukken. Het bleek dat mijn target op de iPhone 8 simulator stond, in plaats van de 'Generic iOS Device', zoals ik [hier](https://stackoverflow.com/a/36799270/5437768) heb gelezen.
 Daarna kreeg ik bij stap 3 de melding dat ik geen iTunes Connect toegang zou hebben op het account van de HAN. Bij het lezen van [de guidance van Apple](https://developer.apple.com/library/content/documentation/LanguagesUtilities/Conceptual/iTunesConnect_Guide/Chapters/SettingUpUserAccounts.html) kwam ik er al snel achter dat het niet mogelijk was om mijzelf [toe te voegen aan iTunes Connect](https://itunesconnect.apple.com/WebObjects/iTunesConnect.woa/ra/ng/users_roles), wat ik nodig heb om de app in de App Store of in TestFlight te zetten.

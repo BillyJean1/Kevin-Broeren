@@ -84,3 +84,17 @@ Het heeft nog niet voor problemen gezorgt (er is niks dubbel gedaan, ik heb hier
 
 ### Wat ga je komende week proberen te verbeteren?
 Komende week ga ik er voor zorgen dat we dagelijks een standup houden en ga ik ook overdag enkele keren vragen waar iedereen mee bezig is, om te controleren of Trello goed wordt bijgehouden en ik zo nodig in kan grijpen. Zo wil ik voorkomen dat wat ik in het vorige hoofdstuk heb beschreven gaat gebeuren.
+
+## Week 7
+### Wat wilde je vorige week ook alweer verbeteren en in hoeverre is dit gelukt?
+Vorige week heb ik besloten om vaker standups te houden om zo beter/sneller in te kunnen grijpen bij uitlopende planningen. Dit is gelukt. Ik heb er voor gezorgd elke dag van deze week een daily standup te houden welke ik ook heb geleid. Dit wil ik ook in de laatste week vast gaan houden.
+
+### Wat ging er afgelopen week goed?
+We hebben deze week weer erg veel kunnen doen. De gehele app is voor 80% afgekomen (het ict gedeelte van deze week) en we hebben een testplan kunnen opstellen en het design + prototype volledig afgerond (het cmd gedeelte).
+
+### Wat ging er niet goed, waar heb je je aan geërgerd, wat moet er niet meer gebeuren?
+De taken waren op zo'n manier verdeeld dat Zoë de storyboards ging ontwikkelen en Ramon, Colin en ik de code. Achteraf, in deze week, bleek dat het mergen van deze dingen erg lastig was. We hebben er voor moeten kiezen om het volledige storyboard voor wat wij ontwikkeld hadden weg te gooien en dat van Zoë te accepteren. Dit resulteerde in niet of verkeerd geconnecte IBOutlets.
+
+### Wat ga je komende week proberen te verbeteren?
+Komende weken wil ik er op gaan letten dat we vaker committen en vaker mergen: elke keer wanneer een (deel van) een feature volledig werkend is dit committen (en pushen). Op die manier kunnen we in kleinere stapjes mergen en heeft dit een grotere kans van slagen gezien er minder mis kan gaan (minder gewijzigd) en er meer 'tijden' bekend zijn van wanneer iemand een wijziging heeft gedaan, en het zo beter te bepalen is welke wijzigingen behouden moeten worden.
+Om dit te verbeteren wil ik een algehele development branch aanmaken waarna we deze kleine features alvast kunnen mergen, alvorens deze helemaal klaar zijn voor de master branch.

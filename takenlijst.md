@@ -34,6 +34,7 @@
 | 4. | Uitwerken reflectie |
 | 5. | Verwerken PoC Push notifications |
 
+
 # Week 6
 ## Maandag
 | Nr. | Taak |
@@ -67,3 +68,30 @@
 | Nr. | Taak |
 | --- | --- |
 | 1. | Uitwerken PoC AppStore |
+| 2. | Verwerken PoC AppStore |
+| 3. | Uitwerken PoC App Analyzing |   
+| 4. | Verwerken PoC App Analyzing |
+
+## Dinsdag
+| Nr. | Taak |
+| --- | --- |
+| 1. | Punten verzilveren: FireBase implementatie verbeterd |
+
+## Woensdag
+| Nr. | Taak |
+| --- | --- |
+| 1. | Merging development with UI |
+
+## Donderdag
+| Nr. | Taak |
+| --- | --- |
+| 1. | Toevoegen van barcode scan aan incheck |
+| 2. | Incheck flow bijwerken: eerst laten zien dat we locatie scannen |
+| 3. | Mergen van 'barcode scanner' en 'aanbevelingen + inloggen' met development-ui |
+
+
+# Week 8
+## Maandag
+| Nr. | Taak |
+| --- | --- |
+| 1. |  |
